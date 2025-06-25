@@ -1,0 +1,38 @@
+#title{
+    font-size: 50px;
+    border-style: solid;
+    border-radius: 10px;
+    color: rgb(14, 85, 32);
+    align-items: center;
+    display: flex;
+    margin-bottom: 50px;
+}
+
+.container{
+    width: 100%;
+    min-height: 100vh;
+    padding: 5%;
+    background-color: rgb(156, 156, 156);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.box{
+    border-style: solid;
+    border-radius: 10px;
+    font-size: 35px;
+    width: 250px;
+    height: 250px;
+}
+
+
+.searchbar{
+    width: 100%;
+    max-width: 700px;
+    display: flex;
+    align-items: center;
+    background-color: rgb(163, 39, 39);
+    border-radius: 60px;
+    padding: 10px 20px;
+}
